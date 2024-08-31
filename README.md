@@ -111,4 +111,4 @@ This project demonstrates my ability to handle a complete machine learning pipel
 - **Advanced Models:** Exploring more complex models like Random Forest or Gradient Boosting for better accuracy.
 - **Hyperparameter Tuning:** Using grid search or random search to optimize model parameters.
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
